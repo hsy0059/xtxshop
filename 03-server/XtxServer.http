@@ -1,0 +1,6 @@
+@XtxServer_HostAddress = http://localhost:5083
+
+GET {{XtxServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
